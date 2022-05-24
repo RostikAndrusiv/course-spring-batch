@@ -1,4 +1,4 @@
 [
- {"value":"Hello"},
- {"value":"World"}
+ {"outputValue":"HELLO"},
+ {"outputValue":"WORLD"}
 ]
